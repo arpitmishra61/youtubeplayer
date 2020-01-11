@@ -11,7 +11,10 @@ export default function Home() {
                 </div>
                 <div className="col-md-4">
 
-                    <SideBar />
+                    <SideBar style={{height:"75vh",
+    backgroundColor: "rgb(224, 224, 224)",
+    paddingBottom: "5px",
+    overflowY:"scroll"}}/>
                 </div>
             </div>
             
