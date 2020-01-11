@@ -1,0 +1,7 @@
+.sideBar{
+    height:75vh;
+    background-color: rgb(224, 224, 224);
+    padding-bottom: 5px;
+    overflow-y: scroll;
+}
+
